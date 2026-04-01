@@ -21,6 +21,7 @@
 | Unleas-Trans | Uniform | 323.10 | 9.35 | 1.041 | 394.97 |
 | Unleas-Trans | Projected-Vendi | 394.61 | 11.64 | 0.934 | 376.83 |
 
+---
 
 **Table 2:** Diversity (Vendi, RKE) and fidelity (KD, FD) scores for uniformly weighted generated samples versus their post-hoc Vendi-projected reweighting on the ImageNet dataset. Across various pre-trained generative models, the Vendi-based projection consistently yields higher diversity scores and improved fidelity for the reweighted empirical distribution.
 
