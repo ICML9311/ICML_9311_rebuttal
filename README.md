@@ -1,6 +1,6 @@
 ## Exposing Diversity Biases in Deep Generative Models: Towards Measuring and Correcting Diversity Error via Vendi Score
 
-
+---
 
 **Table 1:** Diversity (Vendi, RKE) and fidelity (KD, FD) scores for uniformly weighted generated samples versus their post-hoc Vendi-projected reweighting on the FFHQ dataset. Across various pre-trained generative models, the Vendi-based projection consistently yields higher diversity scores and improved fidelity for the reweighted empirical distribution.
 
@@ -35,3 +35,17 @@
 | StyleGAN-XL | Projected-Vendi | 919.18 | 34.27 | 0.189 | 198.37 |
 | GigaGAN | Uniform | 886.93 | 33.63 | 0.248 | 228.35 |
 | GigaGAN | Projected-Vendi | 934.75 | 34.25 | 0.213 | 207.64 |
+
+---
+
+**Figure 1:** Vendi and RKE diversity scores vs. size N for N uniformly weighted generated samples and
+their post-hoc Vendi-projected reweighting LDM trained on FFHQ. The Vendi-based projection yields higher diversity scores for the reweighted empirical distribution.
+
+![LDM_FFHQ](./Figures/ldm_FFHQ_vendi_plot.png)
+
+**Figure 2:** Vendi and RKE diversity scores vs. size N for N uniformly weighted generated samples and
+their post-hoc Vendi-projected reweighting LDM trained on ImageNet. The Vendi-based projection yields higher diversity scores for the reweighted empirical distribution.
+
+![LDM_Imagenet](./Figures/ldm_imagenet_vendi_plot.png)
+
+
