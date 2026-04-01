@@ -28,5 +28,7 @@
 | BigGAN | Projected-Vendi | 947.32 | 33.27 | 0.517 | 386.34 |
 | LDM | Uniform | 889.44 | 33.83 | 0.102 | 124.31 |
 | LDM | Projected-Vendi | 919.18 | 34.89 | 0.094 | 105.95 |
+| StyleGAN-XL       | Uniform | 873.38 | 33.82 | 0.236 | 214.82 |
+| StyleGAN-XL | Projected-Vendi | 919.18 | 34.27 | 0.189 | 198.37 |
 | GigaGAN | Uniform | 886.93 | 33.63 | 0.248 | 228.35 |
 | GigaGAN | Projected-Vendi | 934.75 | 34.25 | 0.213 | 207.64 |
