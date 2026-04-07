@@ -53,20 +53,20 @@ their post-hoc Vendi-projected reweighting LDM trained on ImageNet. The Vendi-ba
 **Figure 3a:** Comparison of Vendi scores of the test sample set (the dashed red curve) and the generated samples
 by pre-trained generative models across four datasets. The backbone embedding is DINOv2 embeddings
 using Gaussian (RBF) kernel with bandwidth $\sigma=30$.
-![sigma 30](./Figures/all_models_vendi_dinov2_sigma30_1x4.pdf)
+![sigma 30](./Figures/all_models_vendi_dinov2_sigma30_1x4.png)
 
 **Figure 3b:** Comparison of Vendi scores of the test sample set (the dashed red curve) and the generated samples
 by pre-trained generative models across four datasets. The backbone embedding is DINOv2 embeddings
 using Gaussian (RBF) kernel with bandwidth $\sigma=35$.
-![sigma 35](./Figures/all_models_vendi_dinov2_sigma35_1x4.pdf)
+![sigma 35](./Figures/all_models_vendi_dinov2_sigma35_1x4.png)
 
 **Figure 3c:** Comparison of Vendi scores of the test sample set (the dashed red curve) and the generated samples
 by pre-trained generative models across four datasets. The backbone embedding is DINOv2 embeddings
 using Gaussian (RBF) kernel with bandwidth $\sigma=40$.
-![sigma 40](./Figures/all_models_vendi_dinov2_sigma40_1x4.pdf)
+![sigma 40](./Figures/all_models_vendi_dinov2_sigma40_1x4.png)
 
 **Figure 3d:** Comparison of Vendi scores of the test sample set (the dashed red curve) and the generated samples
 by pre-trained generative models across four datasets. The backbone embedding is DINOv2 embeddings
 using Gaussian (RBF) kernel with bandwidth $\sigma=45$.
-![sigma 45](./Figures/all_models_vendi_dinov2_sigma45_1x4.pdf)
+![sigma 45](./Figures/all_models_vendi_dinov2_sigma45_1x4.png)
 
